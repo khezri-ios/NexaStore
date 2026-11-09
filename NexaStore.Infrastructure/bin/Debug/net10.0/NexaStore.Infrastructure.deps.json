@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NexaStore.Infrastructure/1.0.0": {
+        "dependencies": {
+          "NexaStore.Application": "1.0.0",
+          "NexaStore.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NexaStore.Infrastructure.dll": {}
+        }
+      },
+      "NexaStore.Application/1.0.0": {
+        "dependencies": {
+          "NexaStore.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NexaStore.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NexaStore.Domain/1.0.0": {
+        "runtime": {
+          "NexaStore.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NexaStore.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NexaStore.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NexaStore.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

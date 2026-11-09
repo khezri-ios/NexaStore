@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NexaStore.API/NexaStore.API.csproj" />
+  <Project Path="NexaStore.Application/NexaStore.Application.csproj" />
+  <Project Path="NexaStore.Domain/NexaStore.Domain.csproj" />
+  <Project Path="NexaStore.Infrastructure/NexaStore.Infrastructure.csproj" />
+</Solution>

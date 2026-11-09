@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WnqWvm8sH7k=",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Test\\NexaStore\\NexaStore.API\\NexaStore.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\104985473\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\104985473\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
